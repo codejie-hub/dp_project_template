@@ -1,5 +1,6 @@
 ### 深度学习项目结构模板
 
+```txt
 dp_template/
 ├── configs/
 │   ├── train_config.yaml
@@ -23,3 +24,4 @@ dp_template/
 ├── eval.py
 ├── requirements.txt
 └── README.md
+```
